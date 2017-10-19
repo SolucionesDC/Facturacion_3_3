@@ -1,0 +1,5 @@
+C:\Users\rdominguez\Documents\Visual Studio 2015\Projects\SolucionesDC_Factura33\bin\Debug\SolucionesDC_Factura33.dll
+C:\Users\rdominguez\Documents\Visual Studio 2015\Projects\SolucionesDC_Factura33\bin\Debug\SolucionesDC_Factura33.pdb
+C:\Users\rdominguez\Documents\Visual Studio 2015\Projects\SolucionesDC_Factura33\bin\Debug\ChilkatDotNet4.dll
+C:\Users\rdominguez\Documents\Visual Studio 2015\Projects\SolucionesDC_Factura33\obj\Debug\SolucionesDC_Factura33.dll
+C:\Users\rdominguez\Documents\Visual Studio 2015\Projects\SolucionesDC_Factura33\obj\Debug\SolucionesDC_Factura33.pdb
